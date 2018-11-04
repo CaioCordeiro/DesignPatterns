@@ -21,4 +21,12 @@ class pastas():
         class Demolidor:
             class temp1:
                 print("Episodios 1 -19")
-                
+    class trabalhos:
+        class ferraz:
+            print("To apresentando agora")
+        class hazin:
+            class sort:
+                print("Insertion_sort.c")
+                print("HEAP_sort.c")
+            class uri:
+                print("Não tem graças a deus")
